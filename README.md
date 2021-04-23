@@ -1,6 +1,6 @@
 ### Welcome kk's home 🤔🤔
 
-I'm [PoppinL](https://poppinlp.com/), a developer who likes delicious food and games.
+I'm kk , a developer who likes traveling and games.
 
 - 🔭 I’m currently looking for opportunities
 - 🌱 I’m currently learning C# & Unity3D
@@ -29,8 +29,8 @@ I'm [PoppinL](https://poppinlp.com/), a developer who likes delicious food and g
 ![PoppinL's github stats](https://github-readme-stats.vercel.app/api?username=7ommykk&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7ommykk&layout=compact&theme=radical)
-
+<!--
 ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=7ommykk&layout=compact&theme=radical)
-
+-->
 #### Thanks (in Chinese)
 
