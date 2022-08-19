@@ -3,11 +3,11 @@
 I'm kk , a developer who likes traveling and games.
 
 - 🔭 I’m currently looking for opportunities
-- 🌱 I’m currently learning C# & Unity3D
+- 🌱 I’m currently learning Vue3
 - 💬 Ask me about anything [here](https://github.com/7ommykk/kkhome/issues)
 - 📫 How to reach me: [email](370671963@qq.com)😋
-- 😄 Pronouns: kk, daddy, one picece
-- ⚡ Fun fact: not like a programmer 😂
+- 😄 Pronouns: kk, tongshen(netease called)
+- ⚡ Fun fact: not like a programmer 😂 like p.m.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
