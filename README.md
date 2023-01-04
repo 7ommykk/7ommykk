@@ -6,8 +6,8 @@ I'm kk , a developer who likes traveling and games.
 - 🌱 I’m currently learning Vue3
 - 💬 Ask me about anything [here](https://github.com/7ommykk/kkhome/issues)
 - 📫 How to reach me: [email](370671963@qq.com)😋
-- 😄 Pronouns: kk, tongshen(netease called)
-- ⚡ Fun fact: not like a programmer 😂 like p.m.
+- 😄 Pronouns: kk
+- ⚡ Fun fact: 😋😋.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,7 +21,7 @@ I'm kk , a developer who likes traveling and games.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 #### Stats
